@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there  this what i'm working on👋
 
 <!--
-**Destin-Lupaya/Destin-Lupaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Destin-Lupaya/Destin-Lupaya** is a ✨ _special_ ✨ repository because its will help many people in my community to improve their life.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Flutter, Node.js, Angular, Python and Symphony
+- 🌱 I’m currently learning Kotlin, Kubernetes, Docker and Golang
+- 👯 I’m looking to collaborate on Flutter, Cloud Engenering and AWS
+- 🤔 I’m looking for help with Kotlin,and Golang
+- 💬 Ask me about All about Tech
+- 📫 How to reach me: destinkabote@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm half finish
 -->
