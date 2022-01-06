@@ -10,4 +10,5 @@
 - ⚡ Fun fact: I'm half finish
 -->
 
-![GitHub Stats](https://https://github-readme-stats.vercel.app/api?username=Destin-Lupaya&theme=radical)
+![GitHub Stats](https://https://github-readme-stats.vercel.app/username=Destin-Lupaya&theme=radical)
+![GitHub Stats] (https://github-profile-trophy.vercel.app/?username=Destin-Lupaya&theme=radical)
