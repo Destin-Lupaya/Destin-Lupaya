@@ -1,3 +1,4 @@
+
 ### Hi there  this what i'm working on👋
 
 - 🔭 I’m currently working on Flutter, Node.js, Angular, Python and Symphony
@@ -10,5 +11,8 @@
 - ⚡ Fun fact: I'm half finish
 -->
 
-![GitHub Stats](https://https://github-readme-stats.vercel.app/username=Destin-Lupaya&theme=radical)
-![GitHub Stats] (https://github-profile-trophy.vercel.app/?username=Destin-Lupaya&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Destin-Lupaya&theme=radical)
+ ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Destin-Lupaya&theme=radical)
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=Destin-Lupaya)
+![GitHub Stats](https://github.com/Destin-Lupaya/Destin-Lupaya/raw/output/github-contribution-grid-snake.gif)
