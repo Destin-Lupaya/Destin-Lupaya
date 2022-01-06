@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I'm half finish
 -->
 
-
+![GitHub Stats](https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Destin-Lupaya&theme=radical)
  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Destin-Lupaya&theme=radical)
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=Destin-Lupaya)
 
-![GitHub Stats](https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif)
+
