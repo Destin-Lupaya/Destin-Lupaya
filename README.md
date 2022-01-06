@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm half finish
 -->
+
+![GitHub Stats](https://https://github-readme-stats.vercel.app/api?username=curiousgrid&theme=radical)]
