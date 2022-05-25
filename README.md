@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Destin Kabote,  this what i'm working on👋
 ![GitHub Stats](https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif)
-- 🔭 I’m currently working on Flutter, Node.js, Angular, Python and Symphony
+- 🔭 I’m currently working on Flutter, Laravel, Node.js, Angular, Python and Symphony
 - 🌱 I’m currently learning Kotlin, Kubernetes, Docker and Golang
 - 👯 I’m looking to collaborate on Flutter, Cloud Engenering and AWS
 - 🤔 I’m looking for help with Kotlin,and Golang
