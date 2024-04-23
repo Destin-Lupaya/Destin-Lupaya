@@ -18,8 +18,8 @@
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=Destin-Lupaya)
 ### Languages and Tools:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Destin-Lupaya&amp;layout=compact)
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)][(https://www.youtube.com](https://www.youtube.com/@destinkabote4643)
-[![](https://api.pointscounter.me/servers/img/subscribe)]((https://www.youtube.com/@destinkabote4643))
+[![](https://github.com/(https://github.com/Destin-Lupaya)](https://www.youtube.com/@destinkabote4643)
+[![](https://api.pointscounter.me/servers/img/subscribe)](https://www.youtube.com/@destinkabote4643)
 
 
 
