@@ -18,5 +18,7 @@
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=Destin-Lupaya)
 ### Languages and Tools:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Destin-Lupaya&amp;layout=compact)
+![GitHub Stats](https://github.com/notifications/beta/shelf)
+
 
 
