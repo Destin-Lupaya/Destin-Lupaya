@@ -5,6 +5,7 @@
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Destin-Lupaya&label=Profile%20views&color=0e75b6&style=flat" alt="Destin-Lupaya" /> </p>
 <p align="left"> <a href="https://twitter.com/KaboteLupaya" target="blank"><img src="https://img.shields.io/twitter/follow/KaboteLupaya?logo=twitter&style=for-the-badge" alt="Destin Kabote Lupaya"  </p>
 
 - 🔭 I’m currently working on **Flutter, Laravel, Node.js, Angular, Python and Symphony**
@@ -48,7 +49,7 @@
   
 ____
 
-   <h1 font-weight="bold" align="center" >Your path to become an ASSOCIATE CLOUD ENGINEER</h1>
+   <h1 font-weight="bold" align="center" >Associate Cloud Engineer</h1>
 </h3>
 
 <br>
@@ -69,7 +70,7 @@ ____
 
 <h3 align="center">
   
-   <h1 align="center"><b>ARCADE OCT SOLUTION / STUDY JAM SOLUTION</b></h1>
+   <h1 align="center"><b>Google ArcadeN</b></h1>
 </h3>
 
 <p align="center">
