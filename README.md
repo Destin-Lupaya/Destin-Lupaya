@@ -70,7 +70,7 @@ ____
 
 <h3 align="center">
   
-   <h1 align="center"><b>Google ArcadeN</b></h1>
+   <h1 align="center"><b>Google Arcade</b></h1>
 </h3>
 
 <p align="center">
